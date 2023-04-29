@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "we create express app",
+  "main": "express",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon express.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "sharpnerwithExpress"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "Anand KV",
+  "license": "ISC"
+}
