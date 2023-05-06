@@ -1,16 +1,15 @@
 {
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.18.2"
   },
   "name": "expressapp",
   "version": "1.0.0",
   "description": "we create express app",
   "main": "express",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon express.js"
-
+    "start": "nodemon express3.js"
   },
   "repository": {
     "type": "git",
